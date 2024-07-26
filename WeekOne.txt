@@ -1,0 +1,6 @@
+1- Cs50 (Algorithms , DS , MEmory ) Done
+2- 3 desginPattern (abstract factory , buider , factory method) done
+3- dani krossing oop Done 
+4- laracasts to the next week 
+ tasks is done 
+github , jira 
